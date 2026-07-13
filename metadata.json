@@ -1,0 +1,6 @@
+{
+  "name": "RISOZINE",
+  "description": "An interactive, tactile folding-fanzine editor and auto-imposition printer inspired by risograph textures and cut-paper aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
